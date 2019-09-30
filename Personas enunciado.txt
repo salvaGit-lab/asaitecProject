@@ -1,0 +1,20 @@
+Preguntas a resolver. Crear un test para ellas.
+
+1. ¿Cuál es la media de edad de las personas de la lista?
+
+2. Diferencia en cantidad en numero de hombres y mujeres.
+
+3. Diferencia de edad entre la mujer con mas edad y el hombre con menos
+
+4. ¿Hay algún par de hermanos (mismos apellidos)?
+
+5. Supongamos que se añade el campo opcional titulación. Calcular la media de edad de los titulados. 
+
+Se dispone de 2 horas para resolverlo.
+El objetivo no es acabar todas las preguntas sino demostrar el conocimiento que se tiene del lenguaje de programación y el estilo que se usa para programar.
+Puede ayudarse de los elementos/bibliotecas/tecnologías que crea necesarios.
+Si algo no esta especificado y debe asumir requisitos puede hacerlo siempre que se comente debidamente en el código.
+Además, existe la posibilidad de elaborar un README si se desea especificar alguna cuestión.
+Esto último no es obligatorio ni debe realizarse dentro del plazo asignado para la resolución de la prueba.
+
+¡Mucha suerte!

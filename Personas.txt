@@ -1,0 +1,8 @@
+NOMBRE, APELLIDOS, EDAD, SEXO
+Pepe,Perez Gonzalez,33,M
+Juan,Gonzalez Perez,32,M
+Maria,Fernandez Fernandez,15,F
+Julian,Gonzalez Alvarez,18,M
+Gloria,Perez Gonzalez,25,F
+Mariano,Pacheco Fernandez,27,M
+
